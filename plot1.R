@@ -48,7 +48,7 @@ png(filename="plot1.png",
 hist(powerdata$Global_active_power,
      col="red",
      main="Global Active Power",
-     xlab="Global Active Power (Kilowatts)")
+     xlab="Global Active Power (kilowatts)")
 
 # write out the plot.
 dev.off()
