@@ -1,10 +1,11 @@
 # Exploratory Data Analysis
 # Assignment 1
 #
-# plot3.R
+# plot4.R
 #
-# Reads the household power consumption data and creates a graph of
-# the three sub-metering levels.
+# Reads the household power consumption data and creates a combined
+# showing, active and reactive power, sub-monitoring levels and
+# voltage.  the three sub-metering levels.
 #
 # We assume that the base data household_power_consumption.txt already
 # exists in the current directory.
