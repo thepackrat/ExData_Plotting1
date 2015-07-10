@@ -3,8 +3,9 @@
 #
 # plot1.R
 #
-# Reads the household power consumption data and creates the required
-# graph.
+# Reads the household power consumption data and creates a histogram of the
+# frequency of difference global active powers over two days.
+#
 # We assume that the base data household_power_consumption.txt already
 # exists in the current directory.
 
